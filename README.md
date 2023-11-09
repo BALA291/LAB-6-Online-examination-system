@@ -18,7 +18,7 @@ the hall ticket to the applicants. The applicants can download the hall tickets 
 ### UML DIAGRAMS:
 ## USECASAE DIAGRAM:
 ![image](https://github.com/Mythilidharman/LAB-6-Online-examination-system/assets/119104110/587f5939-f091-40ca-814d-645c2ea1439b)
-## CLAS DIAGRAM:
+## CLASS DIAGRAM:
 ![image](https://github.com/Mythilidharman/LAB-6-Online-examination-system/assets/119104110/8107abe5-805c-4315-869b-dd1fc49f7b9d)
 ## SEQUENCE DIAGRAM:
 ![image](https://github.com/Mythilidharman/LAB-6-Online-examination-system/assets/119104110/95c72a4d-4f6a-469b-bbe7-4db64d2d1a48)
